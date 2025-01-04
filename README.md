@@ -26,13 +26,13 @@ Users should be able to:
 ### Screenshot
 
 ![](./final-design/final-desktop-design.png)
-![](./final-design/final-mobile-portrait-design.png.png)
-![](./final-design/final-mobile-landscape-design.png.png)
+![](./final-design/final-mobile-portrait-design.png)
+![](./final-design/final-mobile-landscape-design.png)
 
 ### Links
 
 - Solution URL: https://github.com/usman-97/faq-accordion
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: https://usman-97.github.io/faq-accordion/
 
 ## My process
 
